@@ -18,6 +18,11 @@ body{
 #heading-logo h1{
     font-size:120px;
 }
+@media screen and (max-width: 700px) {
+    #heading-logo h1{
+        font-size:4rem;
+    }
+
 #headind-logo h3{
     font-size: 60px;
 }
